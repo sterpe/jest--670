@@ -1,0 +1,29 @@
+{
+  "name": "jest--670",
+  "version": "0.0.0",
+  "description": "require.requireActual bug",
+  "main": "index.js",
+  "scripts": {
+    "test": "standard && jest -c .jestrc --coverage"
+  },
+  "author": "sterpe <srterpe@gmail.com> (https://github.com/sterpe)",
+  "license": "MIT",
+  "devDependencies": {
+    "babel-jest": "^6.0.1",
+    "babel-preset-es2015": "^6.3.13",
+    "jasmine-reporters": "^1.0.2",
+    "jest-cli": "^0.8.2",
+    "lodash": "^4.0.0",
+    "standard": "^5.4.1"
+  },
+  "dependencies": {
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sterpe/jest--670.git"
+  },
+  "bugs": {
+    "url": "https://github.com/sterpe/jest--670/issues"
+  },
+  "homepage": "https://github.com/sterpe/jest--670#readme"
+}

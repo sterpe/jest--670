@@ -1,0 +1,8 @@
+{
+  "scriptPreprocessor": "<rootDir>/node_modules/babel-jest",
+  "testFileExtensions": ["es6", "js"],
+  "moduleFileExtensions": ["js", "json", "es6"],
+  "setupTestFrameworkScriptFile": "scripts/testsetup.js",
+  "unmockedModulePathPatterns": [
+  ]
+}
